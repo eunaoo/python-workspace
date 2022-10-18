@@ -1,4 +1,4 @@
-#print( 20 + 200 )
+#print( 20+ 200 )
 #print( '안녕하세요' )
 #print 괄호안의 내용을 출력하는 기능
 print( 100 ); print( 2000 )
