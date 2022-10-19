@@ -1,0 +1,5 @@
+name=input('이름 입력:')
+age=input('나이 입력:')
+print('=>결과 출력:',name,'님의 나이는',age,'살 입니다')
+print('=>결과 출력:{}님의 나이는 {}살 입니다' .format(name, age))
+print(f'=>결과 출력:{name}님의 나이는 {age}살 입니다')
